@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "meleehitnotifier",
+    "name": "Melee Hit Notifier",
+    "description": "Notifies the player in chat every time they get hit by a melee attack, excluding projectiles and fishing rods.",
+    "version": "@VERSION@",
+    "mcversion": "@MCVERSION@",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["YourName"],
+    "credits": "Thanks to the Minecraft Forge team for the amazing API!",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
